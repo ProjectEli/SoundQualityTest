@@ -2,7 +2,7 @@
 Music (future bass) files for sound quality comparison test. Exported from Cubase pro 11.0.41 Build 448. Date: 2022-10-02.
 
 ## Usage
-My blog article(: https://projecteli.tistory.com/216
+My blog article (Korean): https://projecteli.tistory.com/216
 
 ## Flac files summary
 - Format : FLAC
