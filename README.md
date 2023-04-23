@@ -4,6 +4,11 @@ Music (future bass) files for sound quality comparison test. Exported from Cubas
 ## Usage
 My blog article (Korean): https://projecteli.tistory.com/216
 
+## Original project settings
+- DAW: Cubase pro 11.0
+- Bit depth: 24bit
+- Sample rate: 48kHz
+
 ## Flac files summary
 - Format : FLAC
 - Compression level: 5 (Cubase pro 11.0 default)
@@ -21,4 +26,4 @@ bps= bits per second. k=kilo=2^10 =1024.
 I just followed the naming convention of Cubase 11.0 like capital letters in filename kBps, but it does not mean bytes but actually bits per seconds. 1 Byte = 8bit, 1 kilobit = 1024 bit = 128 Byte. For bit depth of mp3 is not fixed and I cannot designate bit depth but the original Cubase project file used 24bit depth and 48kHz sample rate
 
 ## License
-You can freely use individual or all files for non-comercial purpose. For commercial purpose, you can include files as sample files without explicit permission but please attach original license file in the folder. You can freely modify files but I am not responsible for them. For other conditions, it follows MIT license. If you have any questions, please contact individually.
+You can freely use individual or all files for non-comercial purpose. For commercial purpose, you can include files as sample files without explicit permission but please attach original license file in the folder. You can freely modify files but I am not responsible for them. For other conditions, it follows MIT license. If you have any questions, please contact me individually.
